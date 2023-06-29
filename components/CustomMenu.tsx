@@ -1,6 +1,5 @@
 import { Menu } from '@headlessui/react';
 import Image from 'next/image';
-import { Fragment } from 'react';
 
 type Props = {
   title: string;
