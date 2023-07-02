@@ -27,8 +27,8 @@ export const authOptions: NextAuthOptions = {
       return encodedToken;
     },
     decode: async ({ secret, token }) => {
-        const decodedToken = jsonwebtoken.verify(token!, secret) as JWT;
-        return decodedToken;
+      const decodedToken = jsonwebtoken.verify(token!, secret) as JWT;
+      return decodedToken;
     },
   },
   theme: {
