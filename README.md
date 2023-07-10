@@ -9,8 +9,9 @@ A Dribbble clone built with Next.js, NextAuth, Grafbase and Tailwind CSS.
 [https://nextjs-flexibble-yurken.vercel.app/](https://nextjs-flexibble-yurken.vercel.app/)
 
 ## Screenshots
+![Screenshot 2023-07-10 at 03 59 08](https://github.com/yurkenn/nextjs-flexibble/assets/69719126/d95d8501-64bd-4d2a-b8f9-17dbfdef146c)
 
-![Screenshot 2023-07-10 at 03 25 25](https://github.com/yurkenn/nextjs-promptopia/assets/69719126/e905b0b7-49bd-4659-af7a-97d8d7fdf12a)
+
 
 ## Features
 
